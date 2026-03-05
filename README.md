@@ -14,7 +14,7 @@ The system integrates SpaCy, NLTK, BK-Trees, and probabilistic language models t
 - Error Detection
 - Candidate Ranking
 
-# Technologies USer
+# Technologies Used
 - Python
 - SpaCy
 - NLTK
